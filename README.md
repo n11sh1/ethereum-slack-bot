@@ -10,6 +10,8 @@ Connecting to ethernet's network via web3.js with slack bot.
 ## Getting start
 `git clone git@github.com:n11sh1/ethereum-slack-bot.git`
 
+`cd ethereum-slack-bot`
+
 `npm install botkit`
 
 `npm install web3`
